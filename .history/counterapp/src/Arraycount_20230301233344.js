@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 
 
-function Objectcount() {
+function Arraycount() {
 
   // const [count, setCount] = useState(0)  // normal condition 
 
@@ -31,4 +31,4 @@ function Objectcount() {
   );
 }
 
-export default Objectcount;
+export default Arraycount;
